@@ -1,4 +1,4 @@
-# R_SalaryAnalysis_GGPlot
+# R_FacultySalaryAnalysis_GGPlot
 Visiualization of salary-based analysis using ggplot2 within the R programming environment. 
 
 Description of data:
